@@ -1,4 +1,4 @@
-# Principios SOLID
+# Principios SOLID ejemplificados PROBLEMA Y SOLUCION
 
 ![SOLID Principles](https://raw.githubusercontent.com/alxgcrz/_principios-SOLID_/main/code/images/SOLID.png)
 

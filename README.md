@@ -1,6 +1,6 @@
 # Principios SOLID ejemplificados PROBLEMA Y SOLUCION
 
-![SOLID Principles](https://raw.githubusercontent.com/alxgcrz/_principios-SOLID_/main/code/images/SOLID.png)
+![SOLID Principles](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*pRlsHWFnzN7-k-9-.png)
 
 SOLID es el acrónimo que acuñó **Michael Feathers**, basándose en los principios de la programación orientada a objetos que **Robert C. Martin** había recopilado en el año 2000 en su paper ["_Design Principles and Design Patterns_"](http://www.cvc.uab.es/shared/teach/a21291/temes/object_oriented_design/materials_adicionals/principles_and_patterns.pdf).
 
